@@ -21,12 +21,6 @@ I love crafting engaging game experiences, merging creative storytelling with in
 
 ## 🚀 Featured Projects
 
-- [**RuneMaster**](https://matteo-lorenzini.itch.io/) – Turn-based RPG inspired by myth and magic  
-- [**MazeRPG**](https://matteo-lorenzini.itch.io/) – A dungeon-crawling adventure game
-
-*(Play them and more on [my itch.io page](https://matteo-lorenzini.itch.io/)!)*
-  
----
 
 ## 🌱 Currently Learning
 
