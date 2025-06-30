@@ -5,7 +5,8 @@
 ---
 
 Welcome to my GitHub!  
-I'm currently studying **Game Design** in Florence, and I hold a degree in **Narrative Design** from TheSign Comics & Arts Academy. I love crafting engaging game experiences, merging creative storytelling with interactive design.
+I'm currently studying **Game Design** in Florence, and I hold a degree in **Narrative Design** from TheSign Comics & Arts Academy. 
+I love crafting engaging game experiences, merging creative storytelling with interactive design.
 
 ---
 
