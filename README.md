@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matteo Lorenzini!
 
-🎮 Game Design Student | 🎭 Narrative Design Graduate | 💡 Tech Art Enthusiast
+🎮 Game Design Student | 🎭 Narrative Designer | 💡 Tech Art Enthusiast
 
 ---
 
