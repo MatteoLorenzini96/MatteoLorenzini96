@@ -36,9 +36,4 @@ I love crafting engaging game experiences, merging creative storytelling with in
 
 ---
 
-> “Games are the stories we play.”  
-> — Matteo
-
----
-
 _Thanks for stopping by! Grab a bowl of ramen, open a good book, and stay a while._
